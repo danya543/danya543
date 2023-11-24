@@ -25,11 +25,11 @@ My portfolio is a chronicle of my creativity and professional growth.
 
 I invite you to dive into the world of my projects:
 - Bot platform:
-  - [Git](https://github.com/PyDreamTeam/chat_bot_project_frontend)
-  - [Page](https://python.twnsnd.online/home)
+  - [`Git`](https://github.com/PyDreamTeam/chat_bot_project_frontend)
+  - [`Page`](https://python.twnsnd.online/home)
 - Trello clone:
-  - [Git](https://github.com/Teach-Me-Skills-Frontend/tms-98-team-2)
-  - [Page](https://teach-me-skills-frontend.github.io/tms-98-team-2/)
+  - [`Git`](https://github.com/Teach-Me-Skills-Frontend/tms-98-team-2)
+  - [`Page`](https://teach-me-skills-frontend.github.io/tms-98-team-2/)
 
 Portfolio page:
 
