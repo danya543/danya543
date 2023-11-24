@@ -1,7 +1,8 @@
-### Hi there 👋
+### About me
 
 <!--
 **danya543/danya543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/danya543/danya543/assets/118297018/0202cfc0-5216-47b7-941d-8594396566c6)
+
+Hello!
+
+Welcome to my portfolio dedicated to web development! I'm Daniil, and I view web technologies not just as tools to build websites, but as an endless source of inspiration.
+
+My portfolio is a chronicle of my creativity and professional growth.
+
+I invite you to dive into the world of my projects:
+
+[Portfolio link]
+
+I appreciate any feedback and questions! Let's create something amazing together.
+
+### 🛠️ Tools
+
+- Languages: HTML5, CSS(SCSS), JavaScript(ES6+), TypeScript.
+- Framework: React, Redux, Axios, Next.js.
+- Knowledge of version control systems, especially Git.
+- Familiarity with branching, merging, and pull requests. 
+- Experience with build tools like Webpack, Vite, Vercel, Parsel.
+- Basic understanding of design principles to collaborate effectively with designers.
+- Familiarity with design tool Figma.
+
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](www.linkedin.com/in/daniil-hiliou-91479a284)
+- [Telegram](https://t.me/danuchka)
+
