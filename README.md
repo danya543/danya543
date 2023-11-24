@@ -45,7 +45,7 @@ I appreciate any feedback and questions! Let's create something amazing together
 - Framework: React, Redux, Axios, Next.js.
 - Knowledge of version control systems, especially Git.
 - Familiarity with branching, merging, and pull requests. 
-- Experience with build tools like Webpack, Vite, Vercel, Parsel.
+- Experience with build tools like Webpack, Vite, Vercel, Parcel.
 - Basic understanding of design principles to collaborate effectively with designers.
 - Familiarity with design tool Figma.
 
