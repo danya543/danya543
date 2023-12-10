@@ -30,20 +30,23 @@ I invite you to dive into the world of my projects:
 - Bot platform:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PyDreamTeam&repo=chat_bot_project_frontend)
-    
-[`Page`](https://python.twnsnd.online/home)
 
+[Online page](https://python.twnsnd.online/home)
+
+___________________________________________________________________________________________________
 - Trello clone:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Teach-Me-Skills-Frontend&repo=tms-98-team-2)
 
-[`Page`](https://teach-me-skills-frontend.github.io/tms-98-team-2/)
+[Online page](https://teach-me-skills-frontend.github.io/tms-98-team-2/)
 
+___________________________________________________________________________________________________
 - Bulls and cows
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danya543&repo=bulls-cows)
 
-[`Page`](https://bulls-cows-ca19c8.netlify.app/)
+[Online page](https://bulls-cows-ca19c8.netlify.app/)
+___________________________________________________________________________________________________
 </details>
 
 Portfolio page:
