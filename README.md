@@ -1,20 +1,5 @@
 ### About me
 
-<!--
-**danya543/danya543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/danya543/danya543/assets/118297018/0202cfc0-5216-47b7-941d-8594396566c6)
 
 Hello!
@@ -84,8 +69,9 @@ I appreciate any feedback and questions! Let's create something amazing together
   
 
 ### 👋🏻 Connect with Me
+[![codewars](https://www.codewars.com/users/_.danya._/badges/small)](https://www.codewars.com/users/_.danya._)
 
-- <a href="www.linkedin.com/in/daniil-hiliou-91479a284"><img src="https://img.shields.io/badge/-Daniil%20Hiliou-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-- <a href="mailto:dgilev75@gmail.com"><img src="https://img.shields.io/badge/-dgilev75@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-- <a href="https://t.me/danuchka"><img src="https://img.shields.io/badge/-danuchka-0077B5?style=flat-square&logo=Telegram&logoColor=white"/></a>
+<a href="www.linkedin.com/in/daniil-hiliou-91479a284"><img src="https://img.shields.io/badge/-Daniil%20Hiliou-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:dgilev75@gmail.com"><img src="https://img.shields.io/badge/-dgilev75@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/danuchka"><img src="https://img.shields.io/badge/-danuchka-0077B5?style=flat-square&logo=Telegram&logoColor=white"/></a>
 
