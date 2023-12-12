@@ -2,7 +2,7 @@
 
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/danya543/danya543/assets/118297018/0202cfc0-5216-47b7-941d-8594396566c6)
 
-Hello!
+Hello, I'm React web developer!
 
 Welcome to my portfolio dedicated to web development! I'm Daniil, and I view web technologies not just as tools to build websites, but as an endless source of inspiration.
 
