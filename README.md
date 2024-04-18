@@ -10,27 +10,27 @@ My portfolio is a chronicle of my creativity and professional growth.
 
 I invite you to dive into the world of my projects:
 <details>
-  <summary>Projects</summary>
+  <summary><b>Projects</b></summary>
   
-- Bot platform:
+### Bot platform:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PyDreamTeam&repo=chat_bot_project_frontend)
 
-[Online page](https://python.twnsnd.online/home)
+<a href='https://Python.devlaba.online'><img src='https://github.com/danya543/danya543/assets/118297018/bebde416-5414-433b-8741-f22f59b3ff08'>
 
 ___________________________________________________________________________________________________
-- Trello clone:
+### Trello clone:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Teach-Me-Skills-Frontend&repo=tms-98-team-2)
 
-[Online page](https://teach-me-skills-frontend.github.io/tms-98-team-2/)
+[![button_online (1)](https://github.com/danya543/danya543/assets/118297018/bebde416-5414-433b-8741-f22f59b3ff08)](https://teach-me-skills-frontend.github.io/tms-98-team-2/)
 
 ___________________________________________________________________________________________________
-- Bulls and cows
+### Bulls and cows
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danya543&repo=bulls-cows)
 
-[Online page](https://bulls-cows-ca19c8.netlify.app/)
+[![button_online (1)](https://github.com/danya543/danya543/assets/118297018/bebde416-5414-433b-8741-f22f59b3ff08)](https://bulls-cows-ca19c8.netlify.app/)
 ___________________________________________________________________________________________________
 </details>
 
