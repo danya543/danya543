@@ -14,21 +14,21 @@ I invite you to dive into the world of my projects:
   
 ### Bot platform:
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PyDreamTeam&repo=chat_bot_project_frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PyDreamTeam&repo=chat_bot_project_frontend)](https://github.com/PyDreamTeam/chat_bot_project_frontend)
 
 <a href='https://Python.devlaba.online'><img src='https://github.com/danya543/danya543/assets/118297018/bebde416-5414-433b-8741-f22f59b3ff08'>
 
 ___________________________________________________________________________________________________
 ### Trello clone:
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Teach-Me-Skills-Frontend&repo=tms-98-team-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Teach-Me-Skills-Frontend&repo=tms-98-team-2)](https://github.com/Teach-Me-Skills-Frontend/tms-98-team-2)
 
 [![button_online (1)](https://github.com/danya543/danya543/assets/118297018/bebde416-5414-433b-8741-f22f59b3ff08)](https://teach-me-skills-frontend.github.io/tms-98-team-2/)
 
 ___________________________________________________________________________________________________
 ### Bulls and cows
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danya543&repo=bulls-cows)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danya543&repo=bulls-cows)](https://github.com/danya543/Bulls-Cows)
 
 [![button_online (1)](https://github.com/danya543/danya543/assets/118297018/bebde416-5414-433b-8741-f22f59b3ff08)](https://bulls-cows-ca19c8.netlify.app/)
 ___________________________________________________________________________________________________
