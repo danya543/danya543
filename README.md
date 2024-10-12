@@ -11,7 +11,21 @@ My portfolio is a chronicle of my creativity and professional growth.
 I invite you to dive into the world of my projects:
 <details>
   <summary><b>Projects</b></summary>
-  
+
+### Art museum:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danya543&repo=modsen_trainee)](https://github.com/danya543/modsen_trainee)
+
+<a href='https://museum-trainee.netlify.app/'><img src='https://github.com/danya543/danya543/assets/118297018/bebde416-5414-433b-8741-f22f59b3ff08'>
+
+___________________________________________________________________________________________________
+### City guide:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danya543&repo=modsen_practice)](https://github.com/danya543/modsen_practice)
+
+<a href='https://modsen-city-guide.netlify.app/'><img src='https://github.com/danya543/danya543/assets/118297018/bebde416-5414-433b-8741-f22f59b3ff08'>
+
+___________________________________________________________________________________________________
 ### Bot platform:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PyDreamTeam&repo=chat_bot_project_frontend)](https://github.com/PyDreamTeam/chat_bot_project_frontend)
