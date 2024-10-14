@@ -23,8 +23,6 @@ ________________________________________________________________________________
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danya543&repo=modsen_practice)](https://github.com/danya543/modsen_practice)
 
-<a href='https://modsen-city-guide.netlify.app/'><img src='https://github.com/danya543/danya543/assets/118297018/bebde416-5414-433b-8741-f22f59b3ff08'>
-
 ___________________________________________________________________________________________________
 ### Bot platform:
 
