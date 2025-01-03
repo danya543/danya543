@@ -12,6 +12,13 @@ I invite you to dive into the world of my projects:
 <details>
   <summary><b>Projects</b></summary>
 
+### Disney characters:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danya543&repo=test-task-b1)](https://github.com/danya543/test-task-b1)
+
+<a href='https://disney-characters-by-me.netlify.app/'><img src='https://github.com/danya543/danya543/assets/118297018/bebde416-5414-433b-8741-f22f59b3ff08'>
+
+___________________________________________________________________________________________________
 ### Art museum:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danya543&repo=modsen_trainee)](https://github.com/danya543/modsen_trainee)
